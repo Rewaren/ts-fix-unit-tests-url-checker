@@ -30,4 +30,4 @@ jobs:
 
       # Run tests
       - name: Run tests
-        run: npx jest strongPassword.test.ts
+        run: npx jest calc-password.test.ts
