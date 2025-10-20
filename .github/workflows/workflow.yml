@@ -30,4 +30,4 @@ jobs:
 
       # Run tests
       - name: Run tests
-        run: npm test
+        run: npx jest url-checker.test.ts
